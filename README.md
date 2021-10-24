@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LukasFariz
+- 👀 I’m interested in Programming and Blender 3D Graphics
+- 🌱 I’m currently learning Java and C# 
+- 📫 How to reach me - lukas.fariz@seznam.cz
